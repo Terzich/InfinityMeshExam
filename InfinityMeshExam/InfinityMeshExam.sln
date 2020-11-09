@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityMeshExam", "InfinityMeshExam\InfinityMeshExam.csproj", "{AB422D8E-432D-4261-B873-7F15F464AB6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityMeshExam.DAL", "InfinityMeshExam.DAL\InfinityMeshExam.DAL.csproj", "{95315D55-60B9-4357-AE50-C152FD835300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB422D8E-432D-4261-B873-7F15F464AB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB422D8E-432D-4261-B873-7F15F464AB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB422D8E-432D-4261-B873-7F15F464AB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB422D8E-432D-4261-B873-7F15F464AB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95315D55-60B9-4357-AE50-C152FD835300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95315D55-60B9-4357-AE50-C152FD835300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95315D55-60B9-4357-AE50-C152FD835300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95315D55-60B9-4357-AE50-C152FD835300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630C8043-99E4-41DA-974D-00467ACC469C}
+	EndGlobalSection
+EndGlobal
